@@ -68,3 +68,8 @@ venv.bak/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# 동영상 소스들
+narrations/
+images/
+youtube_shorts_final.mp4
